@@ -1,6 +1,9 @@
 ## ระบบติดตามและวิเคราะห์ปัจจัยความเสี่ยงของนักศึกษาที่ไม่จบตามแผน (JobNae)
-### Version 1.0 
-###  Database System 1 (204321), Sofware Engineering (204361)
+### Version 
+1.0 
+
+###  Subject
+Database System 1 (204321), Sofware Engineering (204361)
 
 ### Team Member
 - Siriluk Jaingam 600510579
