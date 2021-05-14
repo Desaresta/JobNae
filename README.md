@@ -16,3 +16,8 @@
 ### Case Tools
   - phpMyAdmin
   - XAMPP
+
+
+![alt text](https://github.com/Desaresta/JobNae/blob/main/job_nae_01.png?raw=true)
+
+![alt text](https://github.com/Desaresta/JobNae/blob/main/job_nae_02.png?raw=true)
